@@ -1,4 +1,4 @@
-### Inter_Career_Tasks
+## Inter_Career_Tasks
 
 1. Youtube Streamer Analysis: Leveraged KMeans clustering to analyze extensive YouTube data, resolving outliers and identifying 10% more granular audience segments within distinct content creator performance clusters.
 
